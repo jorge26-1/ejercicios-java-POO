@@ -58,7 +58,7 @@ public class Menu {
         }
     }
 
-    // Método para mostrar el mensaje de bienvenida
+    
     private void mostrarMensajeBienvenida() {
         System.out.println("\nBienvenido al sistema de control de temperatura en un invernadero.");
         System.out.println("Este programa simula un sensor de temperatura y activa un calefactor o ventilador dependiendo de la temperatura.");
